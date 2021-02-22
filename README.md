@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Alex!
 
 ### :computer: Professional Background
-I am a pre-sales engineer. I currently work as a customer engineer at Sourcegraph. Prior to Sourcegraph, I was a solutions architect at Andela. In both roles I am the technical resource embedded with the sales team to help customers solve their technical problems.
+I currently work as a customer engineer at Sourcegraph. Prior to Sourcegraph, I was a solutions architect at Andela. In both roles I am the technical resource embedded with the sales team to help customers solve their technical problems.
 
 Prior to pre-sales engineering, I worked at a few different companies in New York and San Francisco as a **software engineer** and as a **team lead**, focusing mostly on Ruby on Rails applications. I got to spend a lot of time tinkering with a variety of ad technologies and building software that mapped to complex financial and legal regulations.
 
