@@ -13,7 +13,7 @@ Whether it's in a functional, managerial, or sales-adjacent role, I do my best w
 ### :bike:  About me
 Beyond tech, I really enjoy cooking, running, hiking, biking, and traveling.
 
-I'm currently based in Philadelphia, PA. I am originally from NJ and spent the greater part of a decade living in Brooklyn.
+I'm based in Brooklyn, NY.
 
 ### :phone: Want to talk?
 
