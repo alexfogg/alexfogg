@@ -10,7 +10,9 @@ Prior to Sourcegraph, I was a solutions architect at Andela.
 Before that I spent nearly six years as a software developer. I worked at a few different companies in New York and San Francisco as a **software engineer** and as a **team lead**, focusing mostly on Ruby on Rails applications. I got to spend a lot of time tinkering with a variety of ad technologies and building software that mapped to complex financial and legal regulations.
 
 ### :blue_heart: What I love working on
-I'm currently doing quite a bit with GenAI and the SDLC. I love solving hard problems, improving processes and communication, and building cool solutions with my teams and customers. I also love to geek out over the intersections of media, finance, business and technology. :computer: :iphone: :dollar:
+Tech-wise: I started as an AI-skeptic, but it's reignited by love of coding and tinkering on problems.
+
+Domain-wise: I really enjoy working with technical people across the SDLC. I like solving hard problems, improving processes and communication, and building cool solutions with my teams and customers. I also love to geek out over the intersections of media, finance, business and technology. :computer: :iphone: :dollar:
 
 Whether it's in a functional, managerial, or sales-adjacent role, I do my best work at the intersection of **people and technology**.
 
